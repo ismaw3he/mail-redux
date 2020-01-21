@@ -4,7 +4,7 @@
     "from": "me",
     "to": "Receiver",
     "date": "01.01.2000",
-    "subject": "Testing sent section",
+    "subject": "Testing SENT section",
     "message": "message message message message message message message message message "
   },
   {
@@ -12,7 +12,7 @@
     "from": "me",
     "to": "Receiver",
     "date": "01.01.2000",
-    "subject": "Testing sent section",
+    "subject": "Testing SENT section",
     "message": "message message message message message message message message message "
   },
   {
@@ -20,7 +20,7 @@
     "from": "me",
     "to": "Receiver",
     "date": "01.01.2000",
-    "subject": "Testing sent section",
+    "subject": "Testing SENT section",
     "message": "message message message message message message message message message "
   },
   {
@@ -28,7 +28,7 @@
     "from": "me",
     "to": "Receiver",
     "date": "01.01.2000",
-    "subject": "Testing sent section",
+    "subject": "Testing SENT section",
     "message": "message message message message message message message message message "
   },
   {
@@ -36,7 +36,7 @@
     "from": "me",
     "to": "Receiver",
     "date": "01.01.2000",
-    "subject": "Testing sent section",
+    "subject": "Testing SENT section",
     "message": "message message message message message message message message message "
   }
 ]

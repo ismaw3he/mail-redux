@@ -15,7 +15,6 @@ function DraftsContainer({draftsData,fetchDrafts}) {
     ) :(
         <div className="section-center">
             <h1 className="section-header">DRAFTS</h1>
-            <div className="divider-line"></div>
             {draftsData.drafts.map( mail => {
                 return <SingleMail key={mail.id} subject={mail.subject}
                                    from={mail.from}

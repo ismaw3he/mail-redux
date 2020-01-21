@@ -15,7 +15,6 @@ function SentContainer({sentData,fetchSent}) {
     ) :(
         <div className="section-center">
             <h1 className="section-header">SENT</h1>
-            <div className="divider-line"></div>
             {sentData.sent.map( mail => {
                 return <SingleMail key={mail.id} subject={mail.subject}
                                    from={mail.from}

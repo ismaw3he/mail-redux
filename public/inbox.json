@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "from": "me",
-    "to": "Receiver",
+    "from": "Sender",
+    "to": "me",
     "date": "01.01.2000",
-    "subject": "Testing inbox section",
+    "subject": "Testing INBOX section",
     "message": "message message message message message message message message message "
   },
   {
     "id": 2,
-    "from": "me",
-    "to": "Receiver",
+    "from": "Sender",
+    "to": "me",
     "date": "01.01.2000",
-    "subject": "Testing inbox section",
+    "subject": "Testing INBOX section",
     "message": "message message message message message message message message message "
   },
   {
     "id": 3,
-    "from": "me",
-    "to": "Receiver",
+    "from": "Sender",
+    "to": "me",
     "date": "01.01.2000",
-    "subject": "Testing inbox section",
+    "subject": "Testing INBOX section",
     "message": "message message message message message message message message message "
   },
   {
     "id": 4,
-    "from": "me",
-    "to": "Receiver",
+    "from": "Sender",
+    "to": "me",
     "date": "01.01.2000",
-    "subject": "Testing inbox section",
+    "subject": "Testing INBOX section",
     "message": "message message message message message message message message message "
   },
   {
     "id": 5,
-    "from": "me",
-    "to": "Receiver",
+    "from": "Sender",
+    "to": "me",
     "date": "01.01.2000",
-    "subject": "Testing inbox section",
+    "subject": "Testing INBOX section",
     "message": "message message message message message message message message message "
   }
 ]
