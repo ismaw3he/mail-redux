@@ -1,0 +1,128 @@
+{
+  "inbox": [
+    {
+      "id": 1,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing inbox section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 2,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing inbox section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 3,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing inbox section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 4,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing inbox section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 5,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing inbox section",
+      "message": "message message message message message message message message message "
+    }
+  ],
+  "sent": [
+    {
+      "id": 6,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 7,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 8,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 9,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 10,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    }
+  ],
+  "drafts": [
+    {
+      "id": 11,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 12,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 13,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 14,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    },
+    {
+      "id": 15,
+      "from": "me",
+      "to": "Receiver",
+      "date": "01.01.2000",
+      "subject": "Testing sent section",
+      "message": "message message message message message message message message message "
+    }
+  ]
+}
