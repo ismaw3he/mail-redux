@@ -30,7 +30,7 @@ function MainPage() {
     return (
         <div className="main-page">
 
-
+/* try to improve it by using Routes to different pages - /sent, /inbox, /drafts. It is just a recomendation. I didn't write it in the task condition for check how many people will guess to implement it */
             <div className="side-bar">
                 <button onClick={showInbox}>Inbox</button>
                 <button onClick={showSent}>Sent</button>
